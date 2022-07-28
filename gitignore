@@ -39,5 +39,6 @@
 *.json
 *.ilk
 *.pdb
+*.blob
 
 # End of https://www.toptal.com/developers/gitignore/api/c++
